@@ -13,3 +13,7 @@ bash <(curl -sSL https://raw.githubusercontent.com/macbservices/NGINX/refs/heads
 #CORRIGIR ERROS
 
 bash <(curl -sSL https://raw.githubusercontent.com/macbservices/NGINX/refs/heads/main/nginx_fix.sh)
+
+ #CORRIGIR ERRO SSL
+
+bash <(curl -sSL https://raw.githubusercontent.com/macbservices/NGINX/refs/heads/main/ssl_nginx_fix.sh)
