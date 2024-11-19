@@ -10,3 +10,6 @@ bash <(curl -sSL https://raw.githubusercontent.com/macbservices/NGINX/refs/heads
 
 bash <(curl -sSL https://raw.githubusercontent.com/macbservices/NGINX/refs/heads/main/install_remove_domain.sh)
 
+#CORRIGIR ERROS
+
+bash <(curl -sSL https://raw.githubusercontent.com/macbservices/NGINX/refs/heads/main/nginx_fix.sh)
