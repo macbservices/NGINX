@@ -5,3 +5,8 @@ bash <(curl -sSL https://raw.githubusercontent.com/macbservices/NGINX/refs/heads
 # ADICIONAR E CONFIGURAR NOVA VPS
 
 bash <(curl -sSL https://raw.githubusercontent.com/macbservices/NGINX/refs/heads/main/add_vps_to_nginx.sh)
+
+# REMOVE DOMINIO
+
+bash <(curl -sSL https://raw.githubusercontent.com/macbservices/NGINX/refs/heads/main/install_remove_domain.sh)
+
